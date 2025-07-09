@@ -4,17 +4,17 @@ Welcome to my GitHub profile! I'm excited to share my journey as an aspiring dat
 ---
 
 ## 🌟 About Me
--Aspiring Data Analyst | SQL | Excel |   
--Passionate about transforming raw data into actionable insights.
--Fun Fact: When I’m not analyzing data, you’ll find me swimming or exploring new hobbies.
+- Aspiring Data Analyst | SQL | Excel |   
+- Passionate about transforming raw data into actionable insights.
+- Fun Fact: When I’m not analyzing data, you’ll find me swimming or exploring new hobbies.
 
 ---
 
 ## 📌 Featured Project
 Skincare Sales Analysis  
 I worked on cleaning, analyzing and visualizing a dataset for my friend’s skincare business.  
--Tools Used: Excel, SQL  
--Outcome: Insights into sales trends, customer preferences and actionable growth strategies.
+- Tools Used: Excel, SQL  
+- Outcome: Insights into sales trends, customer preferences and actionable growth strategies.
 
 ---
 
@@ -24,5 +24,5 @@ I worked on cleaning, analyzing and visualizing a dataset for my friend’s skin
 
 ---
 
-Thank you for visiting my profile! 😊  
-Let’s connect and collaborate!
+<p align="center">Thank you for visiting my profile! 😊  <br>
+Let’s connect and collaborate!</p>
