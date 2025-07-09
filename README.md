@@ -19,8 +19,8 @@ I worked on cleaning, analyzing and visualizing a dataset for my friend’s skin
 ---
 
 ## Let's Connect!
--LinkedIn:  https://www.linkedin.com/in/vivian-a-b01a78355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
--Email: vhiialaka@gmail.com
+-LinkedIn: (https://www.linkedin.com/in/vivian-a-b01a78355)
+-Mail to: vhiialaka@gmail.com
 
 ---
 
