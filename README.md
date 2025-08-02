@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm excited to share my journey as an aspiring dat
 ---
 
 ## 🌟 About Me
-- Aspiring Data Analyst | SQL | Excel |   
+- Data Analyst | SQL | Excel | Python
 - Passionate about transforming raw data into actionable insights.
 - Fun Fact: When I’m not analyzing data, you’ll find me swimming or exploring new hobbies.
 
